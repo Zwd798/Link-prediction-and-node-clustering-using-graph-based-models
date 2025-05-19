@@ -1,0 +1,8 @@
+checkpoint/*
+!checkpoint/.gitkeep
+inductive/link prediction/magnn/icews18/data/*
+inductive/link prediction/magnn/icews14/data/*
+transductive/link prediction/magnn/icews18/data/*
+transductive/link prediction/magnn/icews14/data/*
+magnn/icews14/data/*
+magnn/icews18/data/*
